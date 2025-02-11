@@ -1,0 +1,207 @@
+Faction: Western Europe
+Unit: Longbowman
+Description: The longbowman is a ranged unit with superior range and damage. Used by the English and Welsh armies, these archers are highly effective against armored units.
+Answer: English Longbowman
+
+Faction: Western Europe
+Unit: Crossbowman
+Description: The crossbowman is a powerful ranged unit, favored by European mercenaries and city militias. Effective against cavalry and heavily armored troops.
+Answer: Plated Crossbowman, Man-at-Arms
+
+Faction: Western Europe
+Unit: Knight
+Description: The knight is a heavily armored cavalry unit, known for its devastating charge. They are the backbone of medieval European armies.
+Answer: Mounted Knight, Paladin
+
+Faction: Western Europe
+Unit: Halberdier
+Description: The halberdier wields a long polearm designed to counter cavalry units effectively.
+Answer: Heavy Halberdier
+
+Faction: Western Europe
+Unit: Siege Ballista
+Description: A powerful siege weapon used to pierce through enemy defenses with long-range precision.
+Answer: Ballista Operator
+
+Faction: Western Europe
+Unit: Heavy Pikeman
+Description: An elite spear unit specialized in defending against cavalry charges.
+Answer: Armored Pikeman
+
+Faction: Western Europe
+Unit: Mounted Crossbowman
+Description: A hybrid cavalry unit equipped with a crossbow for ranged skirmishes.
+Answer: Horse Crossbowman
+
+Faction: Western Europe
+Unit: War Wagon
+Description: A defensive mobile structure used for ranged combat, offering protection to archers.
+Answer: Wagon Guard
+
+---
+
+Faction: Byzantines
+Unit: Cataphract
+Description: The cataphract is a heavily armored cavalry unit used by the Byzantine Empire. Resistant to melee attacks, these units dominate the battlefield.
+Answer: Byzantine Cataphract
+
+Faction: Byzantines
+Unit: Skutatoi
+Description: Skutatoi are well-trained infantrymen equipped with spears and large shields, providing solid defense against cavalry.
+Answer: Byzantine Spearman
+
+Faction: Byzantines
+Unit: Greek Fire Thrower
+Description: The Greek Fire Thrower is a siege unit capable of setting enemy troops and buildings ablaze using a secret Byzantine incendiary weapon.
+Answer: Greek Fire Operator
+
+Faction: Byzantines
+Unit: Varangian Guard
+Description: The Varangian Guard are elite axe-wielding warriors known for their battlefield ferocity.
+Answer: Norse Berserker
+
+Faction: Byzantines
+Unit: Trebuchet
+Description: A massive siege engine used to hurl stones at enemy fortifications.
+Answer: Byzantine Siege Master
+
+Faction: Byzantines
+Unit: Dromon
+Description: A Byzantine warship armed with Greek fire projectors.
+Answer: Naval Fire Launcher
+
+Faction: Byzantines
+Unit: Tagmata
+Description: An elite cavalry unit forming the backbone of the Byzantine imperial army.
+Answer: Imperial Guard Cavalry
+
+Faction: Byzantines
+Unit: Byzantine Archer
+Description: Skilled bowmen trained in precision long-range combat.
+Answer: Imperial Bowman
+
+---
+
+Faction: Arabs
+Unit: Arabian Horse Archer
+Description: Arabian horse archers are light cavalry equipped with composite bows. They are fast, highly mobile, and skilled at hit-and-run tactics.
+Answer: Arabian Horse Archer
+
+Faction: Arabs
+Unit: Mamluk
+Description: The Mamluks are elite warriors trained from childhood in swordplay and horsemanship. Their resilience in battle is legendary.
+Answer: Elite Mamluk
+
+Faction: Arabs
+Unit: Camel Rider
+Description: Camel riders are used to counter cavalry units. Their mounts are trained to scare enemy horses, reducing the effectiveness of mounted knights.
+Answer: Desert Raider
+
+Faction: Arabs
+Unit: Janissary
+Description: A highly trained gunpowder infantry unit with superior accuracy.
+Answer: Ottoman Marksman
+
+Faction: Arabs
+Unit: War Elephant
+Description: A heavily armored elephant unit used for charging into enemy lines.
+Answer: Sultan’s War Elephant
+
+Faction: Arabs
+Unit: Bombard
+Description: A large cannon used in sieges to destroy enemy walls.
+Answer: Heavy Bombard Operator
+
+Faction: Arabs
+Unit: Assassin
+Description: A stealth unit specializing in eliminating high-value targets.
+Answer: Silent Dagger
+
+Faction: Arabs
+Unit: Light Lancer
+Description: A fast-moving cavalry unit used for flanking enemy formations.
+Answer: Desert Lancer
+
+---
+
+Faction: Persians
+Unit: War Elephant
+Description: Persian War Elephants are massive siege beasts capable of trampling enemy formations and destroying fortifications with ease.
+Answer: Persian War Elephant
+
+Faction: Persians
+Unit: Immortal
+Description: Persian Immortals are elite warriors, skilled with both bows and swords. They serve as versatile frontline units.
+Answer: Persian Immortal
+
+Faction: Persians
+Unit: Persian Catapult
+Description: The Persian Catapult is a devastating siege weapon used to break through enemy walls and towers.
+Answer: Persian Catapult
+
+Faction: Persians
+Unit: Heavy Chariot
+Description: A chariot unit equipped with archers, used for rapid ranged strikes.
+Answer: Persian War Chariot
+
+Faction: Persians
+Unit: Royal Guard
+Description: Elite heavy infantry with superior armor and discipline.
+Answer: King’s Defender
+
+Faction: Persians
+Unit: Flaming Arrow Archer
+Description: Specialized archers who fire incendiary arrows to burn enemy fortifications.
+Answer: Fire Archer
+
+Faction: Persians
+Unit: Persian Spearman
+Description: A well-armored spearman trained to counter cavalry units.
+Answer: Bronze Spearman
+
+Faction: Persians
+Unit: Scythed Chariot
+Description: A fast-moving chariot with deadly blades attached to its wheels.
+Answer: Chariot Reaper
+
+---
+
+Faction: Indians
+Unit: Rajput Archer
+Description: Rajput archers are expert bowmen, skilled in using longbows for precision strikes. They excel in mountainous and forested terrain.
+Answer: Rajput Archer
+
+Faction: Indians
+Unit: Elephant Archer
+Description: The Elephant Archer is a powerful unit mounted on a war elephant, providing strong ranged attacks while being heavily armored.
+Answer: Indian Elephant Archer
+
+Faction: Indians
+Unit: War Chariot
+Description: The War Chariot is a fast-moving unit used for flanking attacks, equipped with archers and light armor.
+Answer: Indian War Chariot
+
+Faction: Indians
+Unit: Gurkha Warrior
+Description: Light infantry units known for their bravery and close combat skills.
+Answer: Gurkha Blade Fighter
+
+Faction: Indians
+Unit: Brahmin War Elephant
+Description: A war elephant ridden by noble warriors skilled in battlefield tactics.
+Answer: Maharaja’s War Beast
+
+Faction: Indians
+Unit: Chakram Thrower
+Description: A ranged unit equipped with razor-sharp chakrams for deadly spinning attacks.
+Answer: Steel Disc Warrior
+
+Faction: Indians
+Unit: Siege Ram
+Description: A heavily reinforced battering ram used for breaking enemy gates.
+Answer: Fortress Breaker
+
+Faction: Indians
+Unit: Swordsman of Vijayanagara
+Description: Elite swordsmen trained in fast, precise strikes.
+Answer: Vijayanagara Blade Master
